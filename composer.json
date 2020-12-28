@@ -1,7 +1,7 @@
 {
   "name": "coraxster/laravel-owncloud",
   "type": "library",
-  "description": "Laravel 5 OwnCloud Filesystem",
+  "description": "Laravel 7 OwnCloud Filesystem",
   "keywords": [
     "webdav",
     "laravel"
@@ -16,7 +16,7 @@
   ],
   "require": {
     "php" : "~7.0",
-    "illuminate/filesystem": "^5.0",
+    "illuminate/filesystem": "^7.0",
     "coraxster/flysystem-owncloud": ">=1.0"
   },
   "autoload": {
